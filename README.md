@@ -136,4 +136,8 @@ Stores and processes ticket information efficiently for reporting and analytics.
 - BHARATHI S
 - DHARSHINI P
 - PRIYANGA B
+## 🎯 Vision
 
+To transform customer support operations through intelligent automation and AI-driven decision making.
+
+---
